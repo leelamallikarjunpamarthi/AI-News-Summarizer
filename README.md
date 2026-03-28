@@ -1,6 +1,7 @@
 ## AI-News-Summarizer
--
-AI News Summarizer is an AI-powered web application that summarizes news articles from uploaded documents, PDFs, and text files. It highlights key points and includes an Ask AI chat feature to interact with the documents and get quick answers
+
+AI News Summarizer is an AI-powered web application that summarizes news articles from uploaded documents, PDFs, and text files. It highlights key points and includes an Ask AI chat feature to interact with the documents and get quick answers.
+
 ---
 
 ## Project Overview
@@ -43,14 +44,24 @@ Our system uses Artificial Intelligence to read, understand, summarize, and answ
 
 ---
 
-**Dashboard**
+## **Dashboard**
+---
 <img width="1890" height="887" alt="Screenshot (92)" src="https://github.com/user-attachments/assets/611cae27-6584-4098-a4fe-6be2ab0f3f36" />
 
-**Upload Page**
+---
+
+## **Upload Page**
+---
 <img width="1920" height="857" alt="Screenshot (93)" src="https://github.com/user-attachments/assets/8ab6e993-70c8-449f-8041-6f66495aed4b" />
 
-**Ask AI**
+---
+
+## **Ask AI**
+---
 <img width="1920" height="889" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/7928127d-0c78-4080-9673-ca86b42e5ff8" />
 
-**Article Generator Page**
+---
+
+## **Article Generator Page**
+---
 <img width="1893" height="887" alt="Screenshot (94)" src="https://github.com/user-attachments/assets/0bc25985-4f0a-4dff-8dfb-67f7e2ff7b96" />
