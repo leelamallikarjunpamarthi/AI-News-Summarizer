@@ -1,0 +1,38 @@
+# --- OS Files ---
+.DS_Store
+Thumbs.db
+
+# --- Python / Backend ---
+backend/venv/
+backend/__pycache__/
+backend/*.py[cod]
+backend/.env
+backend/data/
+backend/logs/
+backend/pip_error.txt
+backend/test_results.log
+backend/available_models.txt
+backend/available_models.py
+backend/test-server.js
+
+# --- Node.js / Frontend ---
+frontend/node_modules/
+frontend/.next/
+frontend/dist/
+frontend/out/
+frontend/.env
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/next-env.d.ts
+
+# --- Misc ---
+.vscode/
+.idea/
+*.log
+*.tmp
+/tmp/

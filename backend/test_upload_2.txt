@@ -1,0 +1,5 @@
+Another test document for the AI News Summarizer. 
+It talks about the impact of AI on the job market in 2026.
+Automation is expected to create 5 million new roles while displacing 3 million older ones.
+The report was published by the Global Economic Forum on March 21st, 2026.
+It emphasizes the need for upskilling in technical and creative fields.

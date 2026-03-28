@@ -1,0 +1,5 @@
+This is a test document for the AI News Summarizer. 
+It contains some business news about a fictional company called 'TechNova' which is launching a new AI chip.
+The chip is called 'NovaMind' and it promises to be 50% faster than previous versions.
+TechNova's stock rose by 5% following this announcement.
+The launch event took place in San Francisco on March 20th, 2026.
